@@ -1,1 +1,1 @@
-# intcstockprediction
+# Intel Stock Prediction
